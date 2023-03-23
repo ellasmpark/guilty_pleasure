@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 raw_data/
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,4 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> 54a07462238ef5d7d9d73982bd081d8629326ff7
+
+.DS_Store
+notebook/.DS_Store
